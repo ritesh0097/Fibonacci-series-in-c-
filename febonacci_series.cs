@@ -1,7 +1,5 @@
 using System;
-using System.Diagnostics.Contracts;
-using System.Net;
-using Microsoft.Win32;
+
 
 namespace Fibonacci_Series
 {
